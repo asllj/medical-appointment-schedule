@@ -11,8 +11,10 @@ You must cover the following use cases for the consumers of this API.
 
   • As a patient, I must be able to see the availability of the doctors and schedule an
   appointment for myself.
+  
   • As a doctor, I must be able to see the appointments that I have for a given time
   period.
+  
   • As a doctor, I can set my self as unavailable for a specific time period. blocking any
   patients from scheduling an appointment for that period. (e.g., doctor can be on
   vacation, sick, etc…)
