@@ -21,12 +21,12 @@ You must cover the following use cases for the consumers of this API.
   
 The back-end can be built in one of the following languages: Java or Golang.
 We expect you to cover the following aspects:
-  • Easy configuration
-  • Easy to run it locally (must be a containerised solution)
-  • Logging
-  • Testing
-  • Metrics - nice to have
-  • Security
+  * Easy configuration
+  * Easy to run it locally (must be a containerised solution)
+  * Logging
+  * Testing
+  * Metrics - nice to have
+  * Security
   
 To submit the challenge please create a public repository with a proper readme and upload
 in the link provided in this email.
